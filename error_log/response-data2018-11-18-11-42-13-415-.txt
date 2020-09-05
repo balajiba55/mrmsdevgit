@@ -1,0 +1,1 @@
+req url/api/vendor/logout error   ServiceUnavailableError: Response timeout req data {"token":"bXImbXJzYXBpdG9rZW4","vendor_id":"5bfb840500d44f2143cf9ecd","device_id":"7362A5B0-876E-4C7F-9FF2-2EE1F4136F76","fcm_id":"c94whqqCY6M:APA91bG3-YdlJx8Q5q3dE7RxrmI7zSMw-loAcI0YI_nG5yU1KEyrO3PSJ6INzK5LLi1C1KIo47zsr7ubTTJEbTO2Xsp2uu2Rsn-olB_jXL1QCb7Los9zeuRU5l2lGQxYo_VEiFbq6kBu"}

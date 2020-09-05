@@ -1,0 +1,1 @@
+[{"start_time":"2018-11-17-12-22-35-188","end_time":"2018-11-17-12-22-35-188","request_from":"salon","path":"/api/salon/bookings-daily","request":{"token":"bXImbXJzYXBpdG9rZW4","vendor_id":"5bfbb4df00d44ff45e7950f4","start_date":"2018-12-17T00:00:00.000Z","end_date":"2018-12-18T00:00:00.000Z","offset":"0","limit":"10"}}]
