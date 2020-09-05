@@ -1,1 +1,0 @@
- error   Error: Can't set headers after they are sent.

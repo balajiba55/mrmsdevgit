@@ -1,1 +1,0 @@
-[{"start_time":"2018-11-15-11-41-40-204","end_time":"2018-11-15-11-41-40-204","request_from":"customer","path":"/api/customer/cart-update","request":{"token":"bXImbXJzYXBpdG9rZW4","user_id":"5bf2552a0e34f032a05a1c1c","cart_id":"5c14fccf7e044b0ae9a1296f","cart_update_type":"2","price":"70.0","quantity":"2"}}]

@@ -1,1 +1,0 @@
-[{"start_time":"2018-11-15-11-41-40-204","end_time":"2018-11-15-11-41-40-204","request_from":"customer","path":"/api/customer/check-stylist-for-service","request":{"user_id":"5bd409cad6a161150c518e21","token":"bXImbXJzYXBpdG9rZW4","service_id":"5bd32ff8eb7794855587e66c","service_for":"1","latitude":"17.442540","longitude":"78.397152","city_id":"5bd2b116eb7794e15f87e666"}}]

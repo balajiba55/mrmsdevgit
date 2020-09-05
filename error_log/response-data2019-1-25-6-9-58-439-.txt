@@ -1,1 +1,0 @@
-req url/api/customer/forgot-password error   ServiceUnavailableError: Response timeout req data {"token":"bXImbXJzYXBpdG9rZW4","mobile_country":"","mobile":"","email":"rakeshadupa931@gmail.com","request_type":"1"}

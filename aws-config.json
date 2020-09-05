@@ -1,9 +1,0 @@
-{
-  "accessKeyId" : "AKIAW3K377QBJCD4IWAE",
-  "secretAccessKey" : "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",
-  "region": "us-east-1",
-  "bucket" : "files.mrandmrs.salon",
-  "url":"http://s3.amazonaws.com/files.mrandmrs.salon/",
-  "endPoint":"http://s3.amazonaws.com/",
-  "projectPath":""
-}

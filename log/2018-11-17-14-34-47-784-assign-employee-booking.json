@@ -1,1 +1,0 @@
-[{"start_time":"2018-11-17-12-22-35-188","end_time":"2018-11-17-12-22-35-188","request_from":"salon","path":"/api/salon/assign-employee-booking","request":{"user_id":"5c17a99e93f18f325a53490e","token":"bXImbXJzYXBpdG9rZW4","booking_id":"5c17b3fb93f18f325a534aaf","employee_id":"5c17aaac93f18f325a534931","time":"09:00","date":"2018-12-18"}}]

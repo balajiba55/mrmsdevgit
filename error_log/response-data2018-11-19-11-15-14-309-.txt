@@ -1,1 +1,0 @@
-req url/api/customer/logout error   ServiceUnavailableError: Response timeout req data {"user_id":"5bd409cad6a161150c518e21","token":"bXImbXJzYXBpdG9rZW4","device_id":"6A5DAEBA-D517-4F4E-8971-634D7F7B3F9A","fcm_id":"dQ_-aYUlbBg:APA91bEz-98w_m_yRrBX99x3ULbMDNTfk5rSR-5j2IZC3kG3awz_EQEVls6i1gIrEfGgzEw1eUwd4_C6F9MK1K1GAMMYUFmKmA3MyHjqf05eVESWzZC5cU-dCHXmFoRvnsHlcTwHCPuH"}

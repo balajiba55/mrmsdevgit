@@ -1,1 +1,0 @@
-[{"start_time":"2018-11-14-7-17-39-347","end_time":"2018-11-14-7-17-39-347","request_from":"customer","path":"/api/customer/verify-otp","request":{"user_id":"5c13565e80247b2f498498b5","otp":"7054","token":"bXImbXJzYXBpdG9rZW4","otp_type":"1"}}]

@@ -1,1 +1,0 @@
-req url/api/customer/get-near-vendor-List error   ServiceUnavailableError: Response timeout req data {"token":"bXImbXJzYXBpdG9rZW4","latitude":"17.44275","longitude":"78.3973536","city_id":"5bd2b116eb7794e15f87e666"}
